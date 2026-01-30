@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2.TAI_LIEU\\lap_trinh\\do_an\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|e:\\2.tai_lieu\\lap_trinh\\do_an\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\app_do_an.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\app_do_an.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|e:\\2.tai_lieu\\lap_trinh\\do_an\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\app_do_an.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\app_do_an.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|e:\\2.tai_lieu\\lap_trinh\\do_an\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|e:\\2.tai_lieu\\lap_trinh\\do_an\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App_Do_An",
+              "DocumentMoniker": "E:\\2.TAI_LIEU\\lap_trinh\\do_an\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\App_Do_An.csproj",
+              "RelativeDocumentMoniker": "App_Do_An\\App_Do_An.csproj",
+              "ToolTip": "E:\\2.TAI_LIEU\\lap_trinh\\do_an\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\App_Do_An.csproj*",
+              "RelativeToolTip": "App_Do_An\\App_Do_An.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-30T05:00:40.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App_Do_An",
+              "DocumentMoniker": "E:\\2.TAI_LIEU\\lap_trinh\\do_an\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\App_Do_An.csproj",
+              "RelativeDocumentMoniker": "App_Do_An\\App_Do_An.csproj",
+              "ToolTip": "E:\\2.TAI_LIEU\\lap_trinh\\do_an\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\App_Do_An.csproj",
+              "RelativeToolTip": "App_Do_An\\App_Do_An.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-30T05:02:04.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAABABAAAAAAAAAAAAAKoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-30T05:00:48.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\2.TAI_LIEU\\lap_trinh\\do_an\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "App_Do_An\\AssemblyInfo.cs",
+              "ToolTip": "E:\\2.TAI_LIEU\\lap_trinh\\do_an\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\AssemblyInfo.cs",
+              "RelativeToolTip": "App_Do_An\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:56:24.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\2.TAI_LIEU\\lap_trinh\\do_an\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "App_Do_An\\MainWindow.xaml",
+              "ToolTip": "E:\\2.TAI_LIEU\\lap_trinh\\do_an\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\MainWindow.xaml",
+              "RelativeToolTip": "App_Do_An\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-30T04:56:18.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

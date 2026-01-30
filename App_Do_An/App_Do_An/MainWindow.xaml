@@ -7,6 +7,40 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Grid Grid.ColumnSpan="2" Margin="0,0,10,0">
+            <Border CornerRadius="10"
+             Padding="20"
+             Background="#F0F0F0"
+             Width="300"
+             Height="250"
+             HorizontalAlignment="Center"
+             VerticalAlignment="Center">
+
+                <StackPanel>
+                    <TextBlock Text="ĐĂNG NHẬP"
+                        FontSize="20"
+                        FontWeight="Bold"
+                        HorizontalAlignment="Center"
+                        Margin="0,0,0,20"/>
+
+                    <TextBlock Text="Username"/>
+                    <TextBox x:Name="txtUsername"
+                      Height="30"
+                      Margin="0,5,0,10"/>
+
+                    <TextBlock Text="Password"/>
+                    <PasswordBox x:Name="txtPassword"
+                          Height="30"
+                          Margin="0,5,0,15"/>
+
+                    <Button Content="Login"
+                     Height="35"
+                     Background="#007ACC"
+                     Foreground="White"
+                     />
+                </StackPanel>
+            </Border>
+        </Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="7*"/>
             <ColumnDefinition Width="73*"/>
