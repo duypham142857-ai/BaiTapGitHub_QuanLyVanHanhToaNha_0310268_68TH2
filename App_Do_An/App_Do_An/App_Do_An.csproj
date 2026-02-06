@@ -11,8 +11,10 @@
   <ItemGroup>
     <Folder Include="OOP\" />
     <Folder Include="View Model\" />
-    <Folder Include="View\" />
     <Folder Include="Model\" />
+    <Folder Include="View\Admin\" />
+    <Folder Include="View\Manager\" />
+    <Folder Include="View\Maintenance\" />
   </ItemGroup>
 
 </Project>

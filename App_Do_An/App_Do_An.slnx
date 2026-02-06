@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="App_Do_An/App_Do_An.csproj" />
+  <Project Path="Do_an_phan_mem/Do_an_phan_mem.csproj" Id="66776d21-3f79-4860-8313-721469ad41e3" />
 </Solution>

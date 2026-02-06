@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("App_Do_An")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Do_an_phan_mem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2deacbd5e8913d8ff9b3bec95e72a95af1f649d")]
-[assembly: System.Reflection.AssemblyProductAttribute("App_Do_An")]
-[assembly: System.Reflection.AssemblyTitleAttribute("App_Do_An")]
+[assembly: System.Reflection.AssemblyProductAttribute("Do_an_phan_mem")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Do_an_phan_mem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
