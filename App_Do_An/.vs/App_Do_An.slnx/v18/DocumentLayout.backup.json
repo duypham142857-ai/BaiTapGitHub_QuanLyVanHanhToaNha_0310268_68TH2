@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|d:\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\app_do_an.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\app_do_an.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|d:\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\view\\login\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\view\\login\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|d:\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|d:\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\view\\login\\manager\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\view\\login\\manager\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|d:\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\view\\login\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\view\\login\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|d:\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\view model\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\view model\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|d:\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\model\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\model\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|d:\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|d:\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +39,12 @@
       "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66776D21-3F79-4860-8313-721469AD41E3}|Do_an_phan_mem\\Do_an_phan_mem.csproj|d:\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\do_an_phan_mem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{66776D21-3F79-4860-8313-721469AD41E3}|Do_an_phan_mem\\Do_an_phan_mem.csproj|solutionrelative:do_an_phan_mem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|d:\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\view\\login\\manager\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\view\\login\\manager\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|d:\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|d:\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\baitapgithub_quanlyvanhanhtoanha_0310268_68th2\\app_do_an\\app_do_an\\app_do_an.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E3E27D5-D9A3-2FF4-D08E-8F259349E200}|App_Do_An\\App_Do_An.csproj|solutionrelative:app_do_an\\app_do_an.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +54,146 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\App.xaml",
               "RelativeDocumentMoniker": "App_Do_An\\App.xaml",
-              "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\App.xaml",
-              "RelativeToolTip": "App_Do_An\\App.xaml",
+              "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\App.xaml*",
+              "RelativeToolTip": "App_Do_An\\App.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-06T02:18:15.641Z",
+              "WhenOpened": "2026-02-06T03:12:22.933Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\Model\\AuthService.cs",
+              "RelativeDocumentMoniker": "App_Do_An\\Model\\AuthService.cs",
+              "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\Model\\AuthService.cs",
+              "RelativeToolTip": "App_Do_An\\Model\\AuthService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T03:40:10.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.xaml.cs",
+              "DocumentMoniker": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\View\\Login\\login.xaml.cs",
+              "RelativeDocumentMoniker": "App_Do_An\\View\\Login\\login.xaml.cs",
+              "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\View\\Login\\login.xaml.cs",
+              "RelativeToolTip": "App_Do_An\\View\\Login\\login.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T03:37:44.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\View Model\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "App_Do_An\\View Model\\LoginViewModel.cs",
+              "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\View Model\\LoginViewModel.cs",
+              "RelativeToolTip": "App_Do_An\\View Model\\LoginViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T03:32:52.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.xaml",
+              "DocumentMoniker": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\View\\Login\\login.xaml",
+              "RelativeDocumentMoniker": "App_Do_An\\View\\Login\\login.xaml",
+              "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\View\\Login\\login.xaml",
+              "RelativeToolTip": "App_Do_An\\View\\Login\\login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-06T02:33:24.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\View\\Login\\Manager\\Window1.xaml",
+              "RelativeDocumentMoniker": "App_Do_An\\View\\Login\\Manager\\Window1.xaml",
+              "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\View\\Login\\Manager\\Window1.xaml",
+              "RelativeToolTip": "App_Do_An\\View\\Login\\Manager\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-06T02:36:18.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "App_Do_An\\Model\\Users.cs",
+              "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\Model\\Users.cs",
+              "RelativeToolTip": "App_Do_An\\Model\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T03:29:36.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\View\\Login\\Manager\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "App_Do_An\\View\\Login\\Manager\\Window1.xaml.cs",
+              "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\View\\Login\\Manager\\Window1.xaml.cs",
+              "RelativeToolTip": "App_Do_An\\View\\Login\\Manager\\Window1.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T02:53:08.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "App_Do_An\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\MainWindow.xaml.cs",
+              "RelativeToolTip": "App_Do_An\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T02:59:47.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App_Do_An",
+              "DocumentMoniker": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\App_Do_An.csproj",
+              "RelativeDocumentMoniker": "App_Do_An\\App_Do_An.csproj",
+              "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\App_Do_An.csproj",
+              "RelativeToolTip": "App_Do_An\\App_Do_An.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-06T02:34:22.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\MainWindow.xaml",
               "RelativeDocumentMoniker": "App_Do_An\\MainWindow.xaml",
               "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\MainWindow.xaml",
               "RelativeToolTip": "App_Do_An\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-06T02:17:29.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\Do_an_phan_mem\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Do_an_phan_mem\\MainWindow.xaml",
-              "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\Do_an_phan_mem\\MainWindow.xaml",
-              "RelativeToolTip": "Do_an_phan_mem\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-01-30T05:18:39.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App_Do_An.csproj",
-              "DocumentMoniker": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\App_Do_An.csproj",
-              "RelativeDocumentMoniker": "App_Do_An\\App_Do_An.csproj",
-              "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\App_Do_An.csproj",
-              "RelativeToolTip": "App_Do_An\\App_Do_An.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-30T05:13:25.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "App_Do_An\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\BaiTapGitHub_QuanLyVanHanhToaNha_0310268_68TH2\\App_Do_An\\App_Do_An\\MainWindow.xaml.cs",
-              "RelativeToolTip": "App_Do_An\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T05:13:33.924Z",
+              "WhenOpened": "2026-02-06T02:59:50.552Z",
               "EditorCaption": ""
             }
           ]

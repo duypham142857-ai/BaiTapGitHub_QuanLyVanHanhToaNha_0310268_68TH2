@@ -19,6 +19,8 @@ namespace App_Do_An
         public MainWindow()
         {
             InitializeComponent();
+
+
         }
     }
 }
