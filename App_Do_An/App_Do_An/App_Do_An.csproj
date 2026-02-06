@@ -8,4 +8,10 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="OOP\" />
+    <Folder Include="View\Login\Admin\" />
+    <Folder Include="View\Login\Maintenance\" />
+  </ItemGroup>
+
 </Project>
